@@ -1,6 +1,6 @@
 ## Hi there, I'm Ángel 👋
 
-I'm a **Mathematician** passionate about bridging the gap between theoretical Deep Learning and production ready MLOps and Data intensive real world applications. Currently enrolled in my MSc in Big Data Analytics at UC3M.
+I'm a **Mathematician** passionate about bridging the gap between theoretical Deep Learning and production ready MLOps and Data intensive real world applications. Currently employed in Mercedes-Benz as an AI Engineer.
 
 - I’m currently developing specialized expertise in **Cloud GenAI Architectures & Solutions** while solidifying **foundational Analytical and Data Engineering skills** through my **MSc in Big Data Analytics**.
 - Top Projects:
